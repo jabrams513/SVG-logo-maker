@@ -1,6 +1,0 @@
-
-            <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-                <polygon points="100,10 185,185 10,185" fill="blue" />
-                <text x="100" y="115" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="20">JSA</text>
-            </svg>
-        

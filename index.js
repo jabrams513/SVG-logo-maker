@@ -52,5 +52,5 @@ function createFile({textContent, textColor, shapeFillColor, shape}) {
         const circle = new Circle(textContent, textColor, shapeFillColor)
         svgString = circle.render()
     }
-    fs.writeFileSync(path.join(__dirname, "/generated-logos/", textContent + shape + ".svg"),svgString)
+    fs.writeFileSync(path.join(__dirname, "/generated-logos/", textContent + shape + textColor + "on" + shapeFillColor + ".svg"),svgString)
 }
