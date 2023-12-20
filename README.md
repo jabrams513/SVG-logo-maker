@@ -2,7 +2,7 @@
 CLI prompts allow you to generate an SVG logo
 
 ## Purpose
-Build an app that runs in the CLI that generates an simple SVG logo from prompts. The prompts will ask you to choose characters for the logo, a shape, fill color, and text color. Then it will create and SVG file.
+Build an app that runs in the CLI and generates a simple SVG logo from prompts. The prompts will ask you to choose characters for the logo, a shape, fill color, and text color. Then it will create an SVG file.
 
 ## User Story
 
